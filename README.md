@@ -40,7 +40,7 @@ Trained multiple machine learning models:
 
 ✅ **Train-test split** was used to divide data for training & testing.
 ✅ Models were evaluated using **accuracy score, classification report, and cross-validation**.
-✅ **Random Forest performed the best**, providing the highest accuracy.
+✅ **Logistic Regression performed the best**, providing the highest accuracy approx 90%.
 
 ## 🌍 6. Deployment
 
